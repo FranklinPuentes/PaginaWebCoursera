@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color:  rgba(0, 128, 0, 0.678);
+    font-family: "Courier New", monospace; /*tipo dee letra*/
+    font-size: 48px; /*tamaño dee letra*/
+    /*text-transform: uppercase; cambia todos los elementos a mayuscula*/
+    /*text-decoration: underline; subrayar texto */
+    /*text-decoration: underline red solid 5px; el subrayado será una línea roja sólida de 5 píxeles de grosor.*/
+}
+
+#header1 {
+    color:rgba(0, 0, 255, 0.562); 
+}
+
+h2 {
+    color:rgba(0, 0, 255, 0.534);
+}  
+
+/*añadir :hover al elemento a cambiará el color del hipervínculo a naranja cuando se le pase el mouse por encima.*/
+h1:hover{
+    color:blue
+}
+
+p {
+
+    text-align:justify;
+}
